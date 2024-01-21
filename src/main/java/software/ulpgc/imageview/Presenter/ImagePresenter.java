@@ -1,4 +1,4 @@
-package software.ulpgc.imageview;
+package software.ulpgc.imageview.Presenter;
 
 import software.ulpgc.imageview.Interfaces.Image;
 import software.ulpgc.imageview.Interfaces.ImageDisplay;
